@@ -1,2 +1,1 @@
-print ("Hellow Worl")   
-    
+print("Hellow Worl")
